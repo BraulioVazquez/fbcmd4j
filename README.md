@@ -12,11 +12,15 @@ Creación del repositorio. 
 Creación de un nuevo branch. 
 
 Uso:
+
 Control y desarrollo de la aplicación cliente de facebook.
 
+
 Créditos
+
 Braulio Vazquez
 
 Licencia
+
 MIT license.
  
