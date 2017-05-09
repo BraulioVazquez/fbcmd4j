@@ -18,7 +18,7 @@ Control y desarrollo de la aplicación cliente de facebook.
 
 Créditos
 
-Braulio Vazquez
+Braulio Vazquez Sarracino - 02665786
 
 Licencia
 
